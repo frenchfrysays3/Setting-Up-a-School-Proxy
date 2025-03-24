@@ -25,6 +25,8 @@ There are numerous browser extension proxies tailored for widely used browsers. 
 
 4. **4everproxy:** Provides options to remove JavaScript and cookies and allows customization of the webpage’s look. It’s a free proxy site without speed or file size limitations and includes the ability to choose the server and country to circumvent geo-restrictions.
 
+5. **Interstellar:** Provides A sleek design and easy controls and is a free proxy site. There are multiple ways of getting to this.
+
 ## How to Set Up a Proxy on a School Computer
 
 1. **Find a Proxy Server:** Search for free or paid proxy servers online. Choose a reputable one to avoid security issues.
